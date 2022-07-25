@@ -1,6 +1,6 @@
 // Curso alura
 
-# A Barbearia
+# A Barbearia (Primeiro HTML)
 
 ```
 segue o codigo no index.html
